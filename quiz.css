@@ -1,0 +1,26 @@
+.mr {
+  margin-right: 20px;
+}
+
+.bt {
+  padding-right: 5px;
+}
+
+.bg {
+  background: url("https://img.freepik.com/free-vector/winter-background-with-pastel-color-brushes-leaves_220290-42.jpg?size=626&ext=jpg&ga=GA1.2.1615474279.1611878400");
+  background-repeat: no-repeat;
+  background-size: 100% 202%;
+}
+
+.shadowMe {
+  box-shadow: 1px 2px 6px 5px cornflowerblue;
+  margin-top: 100px;
+}
+
+.next {
+  background-color: #aad3ea;
+}
+
+.blackColor {
+  background-color: black;
+}
